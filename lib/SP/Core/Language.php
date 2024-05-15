@@ -70,6 +70,7 @@ final class Language
         'es_ES' => 'Español',
         'ca_ES' => 'Catalá',
         'en_US' => 'English',
+        'tr_TR' => 'Türkçe',
         'de_DE' => 'Deutsch',
         'hu_HU' => 'Magyar',
         'fr_FR' => 'Français',
